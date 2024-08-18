@@ -3,11 +3,12 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
 import IntervalTimer from './interval_timer';
+import IntervalTimerWithStyle from './interval_timer_with_style';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <IntervalTimer />
+    <IntervalTimerWithStyle />
   </React.StrictMode>
 );
 
