@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/interval_timer/static/css/main.e6c13ad2.css",
+    "main.js": "/interval_timer/static/js/main.1b4c0879.js",
+    "static/js/453.454580f5.chunk.js": "/interval_timer/static/js/453.454580f5.chunk.js",
+    "index.html": "/interval_timer/index.html",
+    "main.e6c13ad2.css.map": "/interval_timer/static/css/main.e6c13ad2.css.map",
+    "main.1b4c0879.js.map": "/interval_timer/static/js/main.1b4c0879.js.map",
+    "453.454580f5.chunk.js.map": "/interval_timer/static/js/453.454580f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1b4c0879.js"
+  ]
+}
